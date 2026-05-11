@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+# 추가 라이브러리가 있으면 아래에 입력하세요
+# matplotlib
+# plotly
